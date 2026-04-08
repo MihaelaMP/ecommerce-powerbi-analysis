@@ -1,6 +1,7 @@
 # ecommerce-powerbi-analysis
 E-commerce data analysis project using Power BI : sales trends, customer behavior and delivery performance
-📊 Analisi E-commerce: vendite, clienti e logistica
+
+# 📊 Analisi E-commerce: vendite, clienti e logistica
 
 Questo progetto consiste nella realizzazione di una dashboard interattiva in Power BI per analizzare le performance di un e-commerce brasiliano.
 
