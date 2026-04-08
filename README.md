@@ -47,3 +47,9 @@ L’ultimo mese (settembre 2018) è stato escluso dall’analisi perché present
 - Power BI
 - DAX
 - Data modeling
+
+## 👩‍💻 Margareta Mihaela Pesterau
+Laureata in Ingegneria Informatica (Sapienza, 2012),  
+rientro nel mercato del lavoro dopo anni dedicati alla famiglia.  
+Questo progetto fa parte del mio percorso di riqualificazione  
+come Data Analyst, con focus su Power BI e analisi dei dati .
