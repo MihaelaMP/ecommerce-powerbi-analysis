@@ -8,27 +8,26 @@ Questo progetto consiste nella realizzazione di una dashboard interattiva in Pow
 - Pulizia e comprensione del dataset
 - Creazione del modello dati (relazioni tra 5 tabelle)
 - Definizione dei KPI principali
--Costruzione di una dashboard divisa in:
+- Costruzione di una dashboard divisa in:
       - Overview (visione generale)
       - Trend vendite nel tempo
--Analisi dei dati per individuare pattern e insight
+- Analisi dei dati per individuare pattern e insight
 
 🔹 Dataset
 Fonte: Kaggle – E-commerce Order & Supply Chain Dataset
-
 Tabelle utilizzate:
--Clienti
--Ordini
--DettaglioOrdini
--Pagamenti
--Prodotti
+ -Clienti
+ -Ordini
+ -DettaglioOrdini
+ -Pagamenti
+ -Prodotti
 
 🔹 KPI analizzati
--Fatturato totale
--Numero ordini
--Numero clienti
--Valore medio ordine
--Tempo medio di consegna
+- Fatturato totale
+- Numero ordini
+- Numero clienti
+- Valore medio ordine
+- Tempo medio di consegna
 
 🔹 Insight principali
 -La categoria Toy è la più venduta
