@@ -30,13 +30,15 @@ Tabelle utilizzate:
 - Tempo medio di consegna
 
 🔹 Insight principali
--La categoria Toy è la più venduta
--Il metodo di pagamento più utilizzato è la carta di credito
--Lo stato con maggiore fatturato è São Paulo (SP)
--Le vendite crescono nel tempo con picchi nel periodo novembre-dicembre
--Il tempo medio di consegna è di circa 12 giorni
+
+- La categoria Toy è la più venduta
+- Il metodo di pagamento più utilizzato è la carta di credito
+- Lo stato con maggiore fatturato è São Paulo (SP)
+- Le vendite crescono nel tempo con picchi nel periodo novembre-dicembre
+- Il tempo medio di consegna è di circa 12 giorni
 
 🔹 Note sui dati
+
 L’ultimo mese (settembre 2018) è stato escluso dall’analisi perché presentava dati incompleti, che avrebbero falsato il trend delle vendite.
 
 🔹 Strumenti utilizzati
