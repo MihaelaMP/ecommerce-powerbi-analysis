@@ -15,12 +15,14 @@ Questo progetto consiste nella realizzazione di una dashboard interattiva in Pow
 
 🔹 Dataset
 Fonte: Kaggle – E-commerce Order & Supply Chain Dataset
+
 Tabelle utilizzate:
- -Clienti
- -Ordini
- -DettaglioOrdini
- -Pagamenti
- -Prodotti
+
+ - Clienti
+ - Ordini
+ - DettaglioOrdini
+ - Pagamenti
+ - Prodotti
 
 🔹 KPI analizzati
 - Fatturato totale
