@@ -10,6 +10,7 @@ Questo progetto consiste nella realizzazione di una dashboard interattiva in Pow
 - Creazione del modello dati (relazioni tra 5 tabelle)
 - Definizione dei KPI principali
 - Costruzione di una dashboard divisa in:
+  
       - Overview (visione generale)
       - Trend vendite nel tempo
 - Analisi dei dati per individuare pattern e insight
