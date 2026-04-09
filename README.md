@@ -50,6 +50,12 @@ L’ultimo mese (settembre 2018) è stato escluso dall’analisi perché present
 - DAX
 - Data modeling
 
+  ## 🔹 Dashboard Preview
+
+![Overview](e_commerce_dashboard_pages-1.jpg)
+
+Full dashboard available in: ecommerce_dashboard.pdf
+
 ## 👩‍💻 Margareta Mihaela Pesterau
 Laureata in Ingegneria Informatica (Sapienza, 2012),  
 rientro nel mercato del lavoro dopo anni dedicati alla famiglia.  
